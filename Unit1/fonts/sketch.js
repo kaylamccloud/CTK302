@@ -5,7 +5,6 @@ function setup() {
   f1 = loadFont("assets/Halloween Night.otf");
   f2 = loadFont("assets/HeyNovember-eZZ2l.ttf");
   textAlign(CENTER);
-  // hello
 }
 
 function draw() {
